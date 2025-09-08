@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # this is my first read.me 
-*i'm so excited to learn this*
-**see you later**
+## *i'm so excited to learn this*
+### **see you later**
 
 
 
