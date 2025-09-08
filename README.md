@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# this is my first read.me 
+*i'm so excited to learn this*
+**see you later**
+
+
+
+
 <!--
 **PoLaRiS49/PoLaRiS49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
